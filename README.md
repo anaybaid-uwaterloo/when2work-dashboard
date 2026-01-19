@@ -1,3 +1,14 @@
+## Project Structure 
+```
+when2work-dashboard/
+├── manifest.json
+├── dashboard.js
+├── dashboard.css
+├── popup.html
+├── popup.js
+└── icon.png
+```
+
 ## Why I Built This
 
 As a UWaterloo student working part-time, I got frustrated with When2Work's cluttered interface. Important information like my next shift was buried under navigation menus and notifications.
