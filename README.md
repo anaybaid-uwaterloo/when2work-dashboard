@@ -20,6 +20,7 @@ This extension solves that by:
 
 ## Quick Commands Reference
 
+```
 # Daily workflow
 git pull                           # Start of day
 # ... make changes ...
@@ -34,3 +35,4 @@ git push
 
 # View your work
 git log --oneline --graph
+```
